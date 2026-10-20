@@ -8,6 +8,7 @@ Short narrated history videos I made with AI tools for my Global History 10 clas
 - [The Storming of the Bastille](https://dbassin12.github.io/history-videos/storming-of-the-bastille/): July 14, 1789, in about three minutes.
 - [The Reign of Terror](https://dbassin12.github.io/history-videos/reign-of-terror/): Robespierre and the list of the condemned, in about five minutes. It has hard images, so preview it first.
 - [The Enlightened Despots](https://dbassin12.github.io/history-videos/enlightened-despots.html): an animated short about Frederick the Great, Catherine the Great, and Joseph II.
+- [The Congress of Vienna](https://dbassin12.github.io/history-videos/congress-of-vienna/): how the winners redrew the map of Europe after Napoleon to keep a balance of power, in about six minutes. It has some war images, so preview it first.
 
 The documentaries are made from paintings, prints, and maps of the time, and each one's page credits every picture it uses. Every video has captions on screen.
 
